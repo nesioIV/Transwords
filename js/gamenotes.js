@@ -68,13 +68,13 @@ The description of the screen buttons is displayed by the button [${menuButtons.
 `                ИГРОВАЯ СТАТИСТИКА:
 Текущий уровень игры......${gameSettings.level + 1}
 Текущее время игры..........${gameClock.timeControl.castTime}
-Лучшее время игры............${gameClock.timeMeasureFormat(gameMemory.recordsTableArr[gameSettings.level][gameSettings.complexity])}`
+Лучшее время игры...........${gameClock.timeMeasureFormat(gameMemory.recordsTableArr[gameSettings.level][gameSettings.complexity])}`
 ,
 "EN":
 `                     GAME STATISTICS:
 Current game level......${gameSettings.level + 1}
 Current game time......${gameClock.timeControl.castTime}
-Best game time............${gameClock.timeMeasureFormat(gameMemory.recordsTableArr[gameSettings.level][gameSettings.complexity])}`
+Best game time...........${gameClock.timeMeasureFormat(gameMemory.recordsTableArr[gameSettings.level][gameSettings.complexity])}`
 },
 
 //**************************************************

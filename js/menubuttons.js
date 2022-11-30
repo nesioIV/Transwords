@@ -27,7 +27,7 @@ class MenuButtons {
   drawStyle = {
     btnLineColor: getGameColor("menu_line_color", gameSettings.theme),  // цвет границы вокруг кнопки
     btnLineWidth: 2,  // толщина границы вокруг кнопки
-    btnFontName:  "Georgia", // безопасный шрифт символов: "Verdana", "Arial", "Georgia", "Impact", "Comic Sans MS", "Times New Roman"
+    btnFontName:  "Arial", // безопасный шрифт символов: "Verdana", "Arial", "Georgia", "Impact", "Comic Sans MS", "Times New Roman"
     btnFontStyle : "bold",  // стиль символов на кнопке: "bold" или "" (пусто) 
     btnFontColor : getGameColor("menu_font_color", gameSettings.theme),  // цвет символов на кнопке: "Chocolate"
     btnTextAlign : "center",  // параметр выравнивания символов на кнопке по горизонтали
