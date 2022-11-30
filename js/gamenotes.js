@@ -35,11 +35,11 @@ The description of the screen buttons is displayed by the button [ ${menuButtons
 {
 "RU":
 `                  ЭКРАННЫЕ КНОПКИ:
-[ ${menuButtons.getButtonSymb("PlayGame")} ] — запустить или продолжить игру
+[${menuButtons.getButtonSymb("PlayGame")}] — запустить или продолжить игру
 [${menuButtons.getButtonSymb("GamePause")}] — сделать паузу в игре
 [${menuButtons.getButtonSymb("LevelUpdate")}] — обновить уровень игры
-[${menuButtons.getButtonSymb("LevelDown")}] — понизить уровень игры
-[${menuButtons.getButtonSymb("LevelUp")}] — повысить уровень игры
+[ ${menuButtons.getButtonSymb("LevelDown")} ] — понизить уровень игры
+[ ${menuButtons.getButtonSymb("LevelUp")} ] — повысить уровень игры
 [${menuButtons.getButtonSymb("Language")}] — изменить настройку языка 
 [ 🕨 ] — изменить настройку звука
 [${menuButtons.getButtonSymb("Theme")}] — изменить экранную тему
