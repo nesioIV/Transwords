@@ -114,14 +114,13 @@ Best game time...........${gameClock.timeMeasureFormat(gameMemory.recordsTableAr
 "EN":
 `
 
+
                                     ☁
 
 The game is inactive in this session.
 
 
-                                    ☁
-
-`
+                                    ☁`
 },
 
 //**************************************************
@@ -131,24 +130,24 @@ The game is inactive in this session.
 "RU":
  `
 
- ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀
+ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀
          
                ТРАНСВОРД РАЗГАДАН!
 
             ПРИМИТЕ ПОЗДРАВЛЕНИЯ!
 
- ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀`
+ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀`
 ,
 "EN":
 `
 
- ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀
+ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀
         
         THE TRANSWORD'S BEEN SOLVED!
 
                    CONGRATULATIONS!!!
 
- ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀`
+ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀`
 },
 
 //**************************************************
